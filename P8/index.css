@@ -16,9 +16,9 @@ h1 {
 }
 
 .card {
-    background: lightblue;
+    background: rgb(189, 51, 134);
     padding: 30px;
-    border: 1px solid gray;
+    border: 1px solid rgb(0, 0, 0);
 }
 
 @media (max-width: 600px) {

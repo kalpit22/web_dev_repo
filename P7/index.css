@@ -10,9 +10,8 @@ header {
     padding: 20px;
 }
 
-header h1, header p {
-    margin: 5px;
-}
+
+
 
 .container {
     display: grid;
